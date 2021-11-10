@@ -1,5 +1,6 @@
-**### Hi👋 I'm Achmad Ramadhani**
-
+**<h2> Hi👋 I'm Achmad Ramadhani**</h2><br>
+**I'm currently learning on Politeknik Negeri Balikpapan**<br>
+**How to reach me** : achmadramadhani1119@gmail.com
 
 <!--
 **AchmadRamadhani/AchmadRamadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
